@@ -1,0 +1,31 @@
+:root {
+  --vp-c-bg: #000000;
+  --vp-c-bg-alt: #000000;
+  --vp-c-bg-soft: #000000;
+}
+
+/* Dark background */
+html.dark,
+.VPContent {
+  background-color: #000000;
+}
+
+/* Code blocks */
+.vp-code-group,
+div[class*='language-'] {
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  background-color: #000000;
+}
+
+/* Inline code */
+code {
+  border: 1px solid #ffffff;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* Navbar */
+.VPNav {
+  border-bottom: 1px solid #ffffff;
+}
