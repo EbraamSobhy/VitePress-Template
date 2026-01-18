@@ -22,7 +22,7 @@ This is a minimal [VitePress](https://vitepress.dev/) template project.
    npm install
    ```
    
-#. Install VitePress:
+3. Install VitePress:
    ```bash
    npm add -D vitepress@next
    npx vitepress init
