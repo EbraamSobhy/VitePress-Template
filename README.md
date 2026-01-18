@@ -25,7 +25,6 @@ This is a minimal [VitePress](https://vitepress.dev/) template project.
 3. Install VitePress:
    ```bash
    npm add -D vitepress@next
-   npx vitepress init
    ```
 
 ## Usage
