@@ -7,7 +7,7 @@ This is a minimal [VitePress](https://vitepress.dev/) template project.
 ### Prerequisites
 
 - Node.js (version 18+ recommended)
-- npm (or yarn/pnpm)
+- npm
 
 ### Installation
 
@@ -20,6 +20,12 @@ This is a minimal [VitePress](https://vitepress.dev/) template project.
 2. Install dependencies:
    ```bash
    npm install
+   ```
+   
+#. Install VitePress:
+   ```bash
+   npm add -D vitepress@next
+   npx vitepress init
    ```
 
 ## Usage
